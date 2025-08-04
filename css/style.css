@@ -142,8 +142,12 @@ a {
 /* hero images */
 
 .hero {
-  background-color: #2e2f42;
+  background-repeat: no-repeat;
+  /* background-color: rgba(46, 47, 66, 0.7); */
+  background-image: url(../images/hero/people-office.jpg);
+  background-color: rgba(46, 47, 66, 0.7);
   padding: 188px 0;
+  background-size: cover;
 }
 
 .hero-header {
