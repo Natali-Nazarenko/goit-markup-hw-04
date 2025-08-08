@@ -179,6 +179,7 @@ a {
 .hero {
   max-width: 1440px;
   padding: 188px 0;
+  margin: 0 auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -408,24 +409,14 @@ a {
   margin-right: 120px;
 }
 
-.footer-logo {
-  margin-bottom: 16px;
-}
-
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
 
 .footer-text {
   width: 264px;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  margin-top: 16px;
   color: #f4f4fd;
-}
-
-.footer-social {
-  margin-left: 120px;
 }
 
 .footer-social-text {
